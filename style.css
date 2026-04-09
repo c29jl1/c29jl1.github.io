@@ -67,6 +67,16 @@ img{
     border-radius: 20px;
 }
 
+video{
+    vertical-align: middle;
+    margin-bottom: 16px;
+    margin-left: 50px;
+    height: auto;
+    width: 1000px;
+    border-radius: 20px;
+}
+
+
 /* .title:hover {
     color: rgb(255, 105, 180);
     transition: 3s;
